@@ -1,0 +1,13 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600&display=swap');
+
+body{
+  font-family: 'Kanit', sans-serif;
+  font-weight: 300;
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1000%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='%230e2a47'%3e%3c/rect%3e%3cpath d='M720 723.67C831.21 717.89 911.69 629.18 991.18 551.18 1071.83 472.07 1167.1 392.88 1172.13 280 1177.3 164.06 1098.05 66.07 1016.55-16.55 934.34-99.88 836.96-183.39 720-178.29 605.9-173.32 526.03-75.37 448.24 8.24 374.42 87.56 299.08 171.78 293.57 280 287.83 392.85 340.83 499.4 419.13 580.87 499.1 664.06 604.77 729.65 720 723.67' fill='%231c538e'%3e%3c/path%3e%3cpath d='M720 567.08C791.96 563.34 844.04 505.94 895.47 455.47 947.66 404.28 1009.3 353.04 1012.56 280 1015.9 204.98 964.62 141.58 911.88 88.12 858.69 34.19 795.68-19.84 720-16.54 646.17-13.33 594.49 50.06 544.15 104.15 496.39 155.48 447.64 209.97 444.08 280 440.36 353.02 474.66 421.97 525.32 474.68 577.07 528.51 645.44 570.95 720 567.08' fill='%232774c6'%3e%3c/path%3e%3cpath d='M720 410.49C752.71 408.79 776.38 382.7 799.76 359.76 823.48 336.49 851.5 313.2 852.98 280 854.5 245.9 831.19 217.08 807.22 192.78 783.04 168.27 754.4 143.71 720 145.21 686.44 146.67 662.95 175.48 640.07 200.07 618.36 223.4 596.2 248.17 594.58 280 592.89 313.19 608.48 344.53 631.51 368.49 655.03 392.96 686.11 412.25 720 410.49' fill='%23488fdb'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1000'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
